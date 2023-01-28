@@ -9,6 +9,9 @@ body{
     justify-content: center;
     min-height: 100vh;
     background: #00beac;
+    background: url(./img/8aCQkW.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .container1{
     height: 350px;
